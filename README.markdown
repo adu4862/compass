@@ -1,3 +1,4 @@
+目前还在维护的安卓罗盘代码
 Compass is a sample android application which implements trivial compass functionality.
 It was created just as a code snippet reuse in some of my projects.
 
